@@ -11,7 +11,7 @@ if is_even(number):
     print(f"{number} is even.")
 else:
     print(f"{number} is not even.")
-
+print (f"last moment)
 
 out put :
 Enter a number: 4
