@@ -18,3 +18,4 @@ Enter a number: 4
 4 is even.
 s
 hemali
+kachhad
